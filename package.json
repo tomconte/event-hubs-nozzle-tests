@@ -1,0 +1,14 @@
+{
+  "name": "event-hubs-nozzle-tests",
+  "version": "1.0.0",
+  "description": "This repo contains some scripts that can be used to test the Cloud Foundry loggregator nozzle for Event Hubs.",
+  "main": "event-processor-host.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "dependencies": {
+    "@azure/event-processor-host": "^1.0.6"
+  }
+}
